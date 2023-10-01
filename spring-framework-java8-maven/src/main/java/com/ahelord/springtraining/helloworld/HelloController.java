@@ -1,4 +1,4 @@
-package com.ahelord.springtraining;
+package com.ahelord.springtraining.helloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
