@@ -1,0 +1,1 @@
+- Asi como en POO puedo heredar en maven tambien con la etiqueta parent

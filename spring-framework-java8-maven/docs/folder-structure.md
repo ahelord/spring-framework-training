@@ -1,0 +1,3 @@
+- la carpeta resource tiene los archivos de configuracion
+- target es donde estan los compilados
+- el pom.xml contiene las dependencias
