@@ -1,0 +1,5 @@
+- permiten indicar a spring que debe administrar objetos de la clase anotada, los principales son:
+  - @Component
+  - @Service: beans logica de negocio
+  - @Controller: para exposicion de datos
+  - @Repository: acceso a datos

@@ -8,3 +8,6 @@
 - @Configuration Componente que participara en la construccion del aplicacion context
 - @Autowired buscara un bean(componente) del tipo indicado en el aplication context y lo asignara a la variable
 - Usos de autowired ![autowired.png](autowired.png)
+- El contenedor de spring en un lugar donde viven los objetos y administra su ciclo de vida.
+- El scope el tiempo de vida del objeto
+- Es recomendable hacer la injeccion de depedencias en el constructor
