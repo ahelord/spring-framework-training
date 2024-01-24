@@ -1,0 +1,4 @@
+- ![profiles.png](profiles.png)
+- No se utilizan qualifiers ya que los bean se crearian, con profiles solo un bean se registraria
+- ![profile-config.png](profile-config.png)
+- ![profile-default.png](profile-default.png)

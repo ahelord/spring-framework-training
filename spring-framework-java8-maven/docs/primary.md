@@ -1,0 +1,1 @@
+- Primary no quiero definir un qualifier asi que establezco una implementacion(clase) por defecto
