@@ -1,0 +1,2 @@
+- ![spel.png](spel.png)
+- Permite realizar operaciones sobre la informacion en tiempo der ejecuccion

@@ -1,0 +1,3 @@
+- ![aware-interfaces.png](aware-interfaces.png)
+-  BeanNameAware se dispara cuando se le asigna el nombre e
+- el bean en tiempo de ejeccucion

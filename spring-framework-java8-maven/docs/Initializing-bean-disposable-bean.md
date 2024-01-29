@@ -1,0 +1,1 @@
+- ![Initializing-bean-disposable-bean.png](Initializing-bean-disposable-bean.png)

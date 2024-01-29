@@ -6,4 +6,4 @@ Normalmente cuando generamos Servicios o Repositorios estos no tienen grandes co
 vienen dadas por el application.properties que es el fichero que configura todo por defecto a nivel de Spring Boot sin 
 embargo hay ocasiones que algunos beans que puede ser necesario realizar una configuración a medida para luego usarlos 
 en Servicios o Controllers como clases de apoyo
-- 
+- Puedo asignarle los evenots PreDestroy y PostConstruct

@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/explicit-bean-declaration")
-public class ExplictiBeanDeclarationController {
+public class ExplicitBeanDeclarationController {
 
 
 
-    @Bean
+    @Bean(initMethod = "init",  destroyMethod = "destroy")
     public App getApp(){
         return new App("My bean with default config");
     }
@@ -24,8 +24,6 @@ public class ExplictiBeanDeclarationController {
 
     @GetMapping
     public ResponseEntity<String> getAppName(){
-
-
         return new ResponseEntity<>(this.app.getName(), HttpStatus.OK);
     }
 }

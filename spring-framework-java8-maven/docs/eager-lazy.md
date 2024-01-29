@@ -1,0 +1,2 @@
+- ![eager-lazy.png](eager-lazy.png)
+- Los bean por default son singleton asi que que se crear sin importar que se utilicen o no
